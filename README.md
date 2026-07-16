@@ -1,122 +1,83 @@
-# Charlie Barra
+# Hi, I'm Charlie. 👋
 
-### *Curious about systems. Passionate about building better ones.*
+Almost every project I have built started because something made me stop and think, **“I wonder why that works that way.”**
 
-I'm an aspiring game and interactive systems designer interested in how
-players think, learn, and make decisions. My work combines **game
-design, programming, competitive strategy, and iterative problem
-solving**.
+I like figuring out why games work, what makes players choose one strategy over another, and what happens when one small rule changes everything. Usually, the easiest way for me to understand something is to build it and see what happens.
 
-🌐 **Portfolio:** https://charliebarra.github.io/portfolio/
+Sometimes that becomes a strategy card game. Sometimes it becomes a Python program or a Roblox world. Most of the time, I finish with a better question than the one I started with.
 
-------------------------------------------------------------------------
+🌐 **Portfolio:** [charliebarra.github.io/portfolio](https://charliebarra.github.io/portfolio/)  
+▶️ **Project videos:** [youtube.com/@charlie-barra](https://www.youtube.com/@charlie-barra)
 
-# Featured Work
+---
 
-## 🎮 Meteor Mayhem
+## Featured Project
 
-**Original multiplayer strategy card game**
+### 🚀 Meteor Mayhem
 
-My largest independent project. From the first brainstorming notes to a
-fully playable prototype, I designed every system, card, mechanic, and
-balancing decision.
+An original multiplayer strategy card game about mining resources, upgrading ships, taking risks, and dealing with whatever the hazard deck decides to do next.
 
-**Highlights**
+I designed the rules, cards, resources, upgrades, and hazards, then tested the game with friends, classmates, family, and people from the local gaming community. Playtesting taught me that players use the rules that are actually there—not the rules I thought I had written.
 
--   Game systems design
--   Card balancing
--   Resource economy
--   Risk vs. reward
--   Playtesting
--   Design documentation
+- [View the GitHub repository](https://github.com/charliebarra/meteor-mayhem)
+- [Read the full case study](https://charliebarra.github.io/portfolio/meteor-mayhem.html)
+- [Watch the project video](https://youtu.be/q08nESroUwM)
 
-➡ See the complete case study on my portfolio.
+---
 
-------------------------------------------------------------------------
+## Other Work
 
-## 💻 Programming Projects
+### 💻 Programming Projects
 
-Programming has become another way for me to explore systems.
+Four Python projects, shown in the order I made them:
 
-### Blackjack Program
+- **Adventure Game** — tracking inventory, location, and player progression
+- **Blackjack Program** — randomized card draws, conditions, and win/loss logic
+- **Restaurant Ordering Game** — Python Turtle graphics, user input, and incremental progress
+- **Multiplayer Board Game** — four-player, turn-based game logic and player state
 
-Learning randomization, conditional logic, and game rules.
+[Explore the programming projects](https://charliebarra.github.io/portfolio/programming.html)
 
-### Restaurant Ordering Game
+### 🌎 Interactive World Design
 
-Building interactive interfaces with Python Turtle graphics.
+Personal Roblox Studio experiments where I used building and Lua scripting to test how a space feels, where players go, and what they can do.
 
-### Multiplayer Board Game
+[Explore the world-design studies](https://charliebarra.github.io/portfolio/world-design.html)
 
-Combining visual interfaces with game state management.
+### 🏆 Competitive Pokémon
 
-### Adventure Game
+Competitive Pokémon has been part of my life for years. It taught me to prepare carefully, adapt when the plan stops working, and pay attention to how other players solve the same problem differently.
 
-Managing player inventory, locations, and persistent state.
+[View my competitive-play story](https://charliebarra.github.io/portfolio/pokemon.html)
 
-------------------------------------------------------------------------
+---
 
-## 🌎 Interactive World Design
+## What I'm Exploring
 
-Roblox design studies exploring:
+- Game design and balancing
+- Probability and player decisions
+- Python programming
+- Roblox Studio and Lua
+- Cybersecurity and technical problem-solving
+- Better ways to document how a project changes over time
 
--   Environment design
--   Player navigation
--   Worldbuilding
--   Interactive systems
--   Player agency
+---
 
-These projects document my transition from player to creator.
+## Languages & Tools
 
-------------------------------------------------------------------------
+- Python
+- HTML / CSS
+- JavaScript
+- Lua / Roblox Studio
+- Git / GitHub
 
-# Currently Building
+---
 
--   🐍 Interactive Python Game
--   📈 TCG Matchup Probability Simulator
--   🧪 Interactive Learning Sandbox
+## Currently Wondering
 
-------------------------------------------------------------------------
+- How much randomness feels exciting before it starts feeling unfair?
+- Why do players understand some spaces without needing instructions?
+- How do designers keep a competitive game interesting after thousands of players start trying to solve it?
+- Why does fixing one bug sometimes introduce two more?
 
-# Skills
-
-### Design
-
--   Game Systems Design
--   Balance & Iteration
--   Playtesting
--   UX Thinking
--   Prototyping
-
-### Programming
-
--   Python
--   Git & GitHub
--   HTML / CSS
--   Roblox Studio
-
-### Other
-
--   Cybersecurity Fundamentals
--   Technical Problem Solving
--   Competitive Strategy
-
-------------------------------------------------------------------------
-
-# Design Philosophy
-
-> "The best systems don't tell people what to do---they create
-> meaningful choices."
-
-Whether I'm designing a game, programming an application, or studying
-competitive strategy, I'm most interested in understanding **how systems
-influence decisions** and improving them through testing and iteration.
-
-------------------------------------------------------------------------
-
-# Connect
-
-🌐 Portfolio\
-https://charliebarra.github.io/portfolio/
-
-Thank you for visiting my GitHub!
+I do not think I will ever run out of questions. That is probably a good thing.
