@@ -6,7 +6,7 @@ I like figuring out why games work, what makes players choose one strategy over 
 
 Sometimes that becomes a strategy card game. Sometimes it becomes a Python program or a Roblox world. Most of the time, I finish with a better question than the one I started with.
 
-🌐 **Portfolio:** [charliebarra.github.io/portfolio](https://charliebarra.github.io/portfolio/)  
+🌐 **Portfolio:** [www.charliebarra.com](https://www.charliebarra.com/)  
 ▶️ **Project videos:** [youtube.com/@charlie-barra](https://www.youtube.com/@charlie-barra)
 
 ---
@@ -20,7 +20,7 @@ An original multiplayer strategy card game about mining resources, upgrading shi
 I designed the rules, cards, resources, upgrades, and hazards, then tested the game with friends, classmates, family, and people from the local gaming community. Playtesting taught me that players use the rules that are actually there—not the rules I thought I had written.
 
 - [View the GitHub repository](https://github.com/charliebarra/meteor-mayhem)
-- [Read the full case study](https://charliebarra.github.io/portfolio/meteor-mayhem.html)
+- [Read the full case study](https://www.charliebarra.com/meteor-mayhem.html)
 - [Watch the project video](https://youtu.be/q08nESroUwM)
 
 ---
@@ -36,19 +36,19 @@ Four Python projects, shown in the order I made them:
 - **Restaurant Ordering Game** — Python Turtle graphics, user input, and incremental progress
 - **Multiplayer Board Game** — four-player, turn-based game logic and player state
 
-[Explore the programming projects](https://charliebarra.github.io/portfolio/programming.html)
+[Explore the programming projects](https://www.charliebarra.com/programming.html)
 
 ### 🌎 Interactive World Design
 
 Personal Roblox Studio experiments where I used building and Lua scripting to test how a space feels, where players go, and what they can do.
 
-[Explore the world-design studies](https://charliebarra.github.io/portfolio/world-design.html)
+[Explore the world-design studies](https://www.charliebarra.com/world-design.html)
 
 ### 🏆 Competitive Pokémon
 
 Competitive Pokémon has been part of my life for years. It taught me to prepare carefully, adapt when the plan stops working, and pay attention to how other players solve the same problem differently.
 
-[View my competitive-play story](https://charliebarra.github.io/portfolio/pokemon.html)
+[View my competitive-play story](https://www.charliebarra.com/pokemon.html)
 
 ---
 
