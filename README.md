@@ -29,7 +29,7 @@ A 2D cave-escape platformer built in Godot during seven working days of a two-we
 
 - [Read the full case study](https://www.charliebarra.com/swap-monsters.html)
 - [View the GitHub repository](https://github.com/charliebarra/swap-monsters)
-- [Play on itch.io](https://charliebarra.itch.io/swap-monsters)
+- [Play on itch.io](https://spaceninja910.itch.io/swap-monsters)
 - [Watch the gameplay walkthrough](https://youtu.be/zS3NLN07p0Y)
 
 ---
