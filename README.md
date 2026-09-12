@@ -27,7 +27,6 @@ I designed the rules, cards, resources, upgrades, and hazards, then tested the g
 
 A 2D cave-escape platformer built in Godot during seven working days of a two-week, 30-hour Urban Arts course. I used the supplied Endless Access Moddable Platformer starter framework, removed the original level content, customized the player systems, programmed three-character switching and abilities, added a switching meter and breakable-object mechanics, and designed the cave's route and progression.
 
-- [View the GitHub repository](https://github.com/charliebarra/swap-monsters)
 - [Read the full case study](https://www.charliebarra.com/swap-monsters.html)
 - [Play on itch.io](https://charliebarra.itch.io/swap-monsters)
 - [Watch the gameplay walkthrough](https://youtu.be/zS3NLN07p0Y)
